@@ -27,7 +27,7 @@ export default function Home() {
           </div>
 
           <div className="p-6 rounded-lg border bg-card text-card-foreground shadow-sm hover:shadow-md transition-shadow">
-            <h2 className="text-2xl font-semibold mb-2">Next.js 15</h2>
+            <h2 className="text-2xl font-semibold mb-2">Next.js 16</h2>
             <p className="text-muted-foreground">
               Built with the latest Next.js features and best practices.
             </p>
